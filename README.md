@@ -1,9 +1,10 @@
 # ARROS BRUT
-<img src="Plat.jpeg" alt="Arròs brut" width="400">
+<img src="Plat.jpeg" alt="Arròs brut" width="600">
 
 El **Arròs Brut** (arroz sucio) es una de las joyas de la gastronomía mallorquina. Se caracteriza por ser un arroz caldoso, oscuro y muy especiado. Su nombre proviene precisamente de ese color "sucio" que le otorga el uso de caza, especias y, tradicionalmente, el hígado de las aves.
 Aquí tienes la guía para prepararlo de forma tradicional:
 ### Ingredientes clave
+<img src="Ingredient.jpeg" alt="Arròs brut" width="400">
  * **Proteínas:** Tradicionalmente se usa una mezcla de pollo campero, costilla de cerdo y conejo. Si quieres ser más fiel a la receta antigua, puedes incluir caza menor (como codornices o zorzales/tordos).
  * **El "Secreto" (La Picada):** Es el alma del plato. Consiste en machacar en el mortero el **hígado** de las aves, un trocito de **sobrasada**, ajo, perejil y, a veces, una ñora hidratada.
  * **Especias:** Es fundamental el uso de canela, pimienta negra, clavo y nuez moscada. En Mallorca existe una mezcla preparada llamada "4 especias" que facilita este paso.
