@@ -1,5 +1,5 @@
 # ARROS BRUT
-<img src="Plat_principal.jpg" alt="Arròs brut" width="400">
+<img src="Plat principal.jpg" alt="Arròs brut" width="400">
 
 El **Arròs Brut** (arroz sucio) es una de las joyas de la gastronomía mallorquina. Se caracteriza por ser un arroz caldoso, oscuro y muy especiado. Su nombre proviene precisamente de ese color "sucio" que le otorga el uso de caza, especias y, tradicionalmente, el hígado de las aves.
 Aquí tienes la guía para prepararlo de forma tradicional:
