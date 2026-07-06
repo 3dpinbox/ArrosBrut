@@ -6,13 +6,13 @@ Aquí tienes la guía para prepararlo de forma tradicional:
 ## Ingredientes (4 personas)
 <img src="https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2024/10/25/671b6d77482fd.r_d.1535-941-3077.jpeg" alt="Arròs brut" width="400">
 
-* **Arroz: 320-350 g (aprox. 85 g por persona).
-* **Carne: 400 g de costilla de cerdo troceada y 300 g de pollo o conejo.
-* **Embutido: 50-70 g de sobrasada mallorquina.
-* **Verduras: 4 alcachofas (limpias y troceadas), 150 g de guisantes, 150 g de setas (tipo níscalo), 100 g de judías verdes y una coliflor pequeña.
-* **Base: 1 cebolla grande, 2 tomates maduros rallados y 1 hígado de pollo.
-* **Condimentos: 1 cucharadita de pimentón dulce, un pellizco de canela en polvo, 2-3 clavos de especia, azafrán en hebra, sal, pimienta negra y aceite de oliva virgen extra.
-* **Caldo: Aproximadamente 1,2 a 1,5 litros de agua (el arroz brut es caldoso, ajusta según te guste de espesor).
+* **Arroz**: 320-350 g (aprox. 85 g por persona).
+* **Carne**: 400 g de costilla de cerdo troceada y 300 g de pollo o conejo.
+* **Embutido**: 50-70 g de sobrasada mallorquina.
+* **Verduras**: 4 alcachofas (limpias y troceadas), 150 g de guisantes, 150 g de setas (tipo níscalo), 100 g de judías verdes y una coliflor pequeña.
+* **Base**: 1 cebolla grande, 2 tomates maduros rallados y 1 hígado de pollo.
+* **Condimentos**: 1 cucharadita de pimentón dulce, un pellizco de canela en polvo, 2-3 clavos de especia, azafrán en hebra, sal, pimienta negra y aceite de oliva virgen extra.
+* **Caldo**: Aproximadamente 1,2 a 1,5 litros de agua (el arroz brut es caldoso, ajusta según te guste de espesor).
 
 ## Preparación
  1. *El sofrito de carne:* El sofrito: Asegúrate de dorar bien la carne antes de añadir la verdura; esto es vital para la profundidad del sabor del caldo.
