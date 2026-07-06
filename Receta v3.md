@@ -1,10 +1,10 @@
 # ARROS BRUT
-<img src="https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2024/10/25/671b6d77482fd.r_d.1535-941-3077.jpeg" alt="Arròs brut" width="400">
+<img src="https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2024/10/25/671b6d77482fd.r_d.1535-941-3077.jpeg" alt="Arròs brut" width="600">
 
 El *Arròs Brut* (arroz sucio) es una de las joyas de la gastronomía mallorquina. Se caracteriza por ser un arroz caldoso, oscuro y muy especiado. Su nombre proviene precisamente de ese color "sucio" que le otorga el uso de caza, especias y, tradicionalmente, el hígado de las aves.
 Aquí tienes la guía para prepararlo de forma tradicional:
 ## Ingredientes (4 personas)
-<img src="https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2024/10/25/671b6b6beff7b.jpeg" alt="Arròs brut" width="600">
+<img src="https://www.lavanguardia.com/files/content_image_desktop_filter/uploads/2024/10/25/671b6b6beff7b.jpeg" alt="Arròs brut" width="400">
 
 * **Arroz**: 320-350 g (aprox. 85 g por persona).
 * **Carne**: 400 g de costilla de cerdo troceada y 300 g de pollo o conejo.
