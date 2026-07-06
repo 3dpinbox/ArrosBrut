@@ -15,6 +15,6 @@ Aquí tienes la guía para prepararlo de forma tradicional:
 * **Caldo**: Aproximadamente 1,2 a 1,5 litros de agua (el arroz brut es caldoso, ajusta según te guste de espesor).
 
 ## Preparación
- 1. *El sofrito de carne:* El sofrito: Asegúrate de dorar bien la carne antes de añadir la verdura; esto es vital para la profundidad del sabor del caldo.
- 2. * *El "picadillo"*: Fríe el hígado de pollo brevemente, machácalo en el mortero con un poco del caldo de la cocción y añádelo justo cuando incorpores el arroz.
- 3. * *Cocción*: Añade el arroz cuando el caldo esté hirviendo. Mantén el fuego medio-bajo; el arroz debe quedar meloso y caldoso al servirlo inmediatamente
+ 1. **El sofrito de carne:** El sofrito: Asegúrate de dorar bien la carne antes de añadir la verdura; esto es vital para la profundidad del sabor del caldo.
+ 2. **El "picadillo"**: Fríe el hígado de pollo brevemente, machácalo en el mortero con un poco del caldo de la cocción y añádelo justo cuando incorpores el arroz.
+ 3. **Cocción**: Añade el arroz cuando el caldo esté hirviendo. Mantén el fuego medio-bajo; el arroz debe quedar meloso y caldoso al servirlo inmediatamente
